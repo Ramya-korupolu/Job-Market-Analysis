@@ -1,0 +1,716 @@
+Job Title,Company Name,Required Skills,Location,Industry,Job Type,Experience Level,Posting Date,Salary Range
+Business Intelligence Analyst,Netflix,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",San Francisco,Education,Part-Time,Mid-level,2023-05-20,120k-150k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Chicago,Finance,Part-Time,Mid-level,2024-05-14,120k-150k
+Customer Support Specialist,Tesla,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Berlin,Tech,Full-Time,Senior,2023-05-17,150k-200k
+Recruitment Specialist,IBM,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Toronto,Consulting,Full-Time,Mid-level,2023-04-02,80k-100k
+Data Analyst,Facebook,"['Python', 'SQL', 'Tableau', 'Excel']",Remote,E-commerce,Internship,Entry-level,2022-12-14,120k-150k
+Back-End Developer,Accenture,"['Node.js', 'Python', 'SQL', 'API Development']",Remote,Tech,Internship,Senior,2024-04-25,150k-200k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,E-commerce,Contract,Entry-level,2024-08-11,60k-80k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",New York,Consulting,Internship,Senior,2021-10-23,60k-80k
+Full-Stack Developer,Google,"['JavaScript', 'React', 'Node.js', 'SQL']",Remote,Consulting,Contract,Entry-level,2022-11-24,60k-80k
+Social Media Manager,Google,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",New York,Consulting,Full-Time,Entry-level,2023-01-28,60k-80k
+Customer Success Manager,Salesforce,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Chicago,Education,Part-Time,Mid-level,2022-06-02,150k-200k
+Customer Support Specialist,Salesforce,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",New York,Healthcare,Internship,Entry-level,2022-05-10,150k-200k
+Back-End Developer,Salesforce,"['Node.js', 'Python', 'SQL', 'API Development']",Toronto,Tech,Internship,Senior,2022-04-15,100k-120k
+Digital Marketing Specialist,Accenture,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Tech,Internship,Senior,2024-07-12,150k-200k
+Investment Analyst,Microsoft,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",New York,E-commerce,Contract,Mid-level,2024-07-24,150k-200k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Toronto,Finance,Part-Time,Senior,2023-08-09,80k-100k
+Software Engineer,Adobe,"['Java', 'Python', 'C++', 'AWS']",Sydney,E-commerce,Internship,Mid-level,2022-07-31,120k-150k
+Technical Product Manager,IBM,"['Agile', 'Technical Writing', 'API', 'Software Development']",New York,Healthcare,Contract,Mid-level,2023-01-15,60k-80k
+SEO Analyst,Netflix,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Sydney,Education,Full-Time,Entry-level,2024-02-21,80k-100k
+Software Engineer,Netflix,"['Java', 'Python', 'C++', 'AWS']",Toronto,Education,Part-Time,Senior,2022-08-09,150k-200k
+Financial Analyst,Amazon,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",London,Manufacturing,Internship,Mid-level,2024-06-10,120k-150k
+SEO Analyst,Tesla,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,E-commerce,Contract,Mid-level,2023-09-07,120k-150k
+Business Intelligence Analyst,Accenture,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",San Francisco,Manufacturing,Contract,Senior,2024-09-15,80k-100k
+Financial Analyst,Netflix,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",New York,Consulting,Full-Time,Mid-level,2023-08-14,60k-80k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Tech,Contract,Senior,2023-08-04,60k-80k
+Customer Success Manager,Accenture,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Austin,Consulting,Part-Time,Mid-level,2022-11-29,80k-100k
+Front-End Developer,Google,"['HTML', 'CSS', 'JavaScript', 'React']",Toronto,Education,Part-Time,Senior,2023-09-17,80k-100k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Sydney,Tech,Internship,Mid-level,2023-07-26,120k-150k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Remote,Manufacturing,Part-Time,Mid-level,2024-05-30,150k-200k
+Technical Product Manager,Adobe,"['Agile', 'Technical Writing', 'API', 'Software Development']",San Francisco,Marketing,Internship,Mid-level,2024-03-25,80k-100k
+Talent Acquisition,Tesla,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Toronto,Finance,Internship,Mid-level,2024-08-19,120k-150k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",London,Manufacturing,Part-Time,Entry-level,2023-06-25,100k-120k
+Financial Analyst,Facebook,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Austin,Consulting,Full-Time,Entry-level,2022-06-22,120k-150k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",London,Finance,Full-Time,Senior,2022-04-23,80k-100k
+Customer Success Manager,Google,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",New York,Manufacturing,Internship,Mid-level,2023-10-16,120k-150k
+Customer Support Specialist,Tesla,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",San Francisco,E-commerce,Contract,Mid-level,2022-05-31,60k-80k
+Recruitment Specialist,Netflix,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Austin,Healthcare,Contract,Senior,2021-11-05,80k-100k
+Accountant,Accenture,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",New York,Marketing,Internship,Senior,2024-09-04,100k-120k
+Software Engineer,IBM,"['Java', 'Python', 'C++', 'AWS']",Austin,Marketing,Full-Time,Senior,2023-02-23,150k-200k
+Back-End Developer,Tesla,"['Node.js', 'Python', 'SQL', 'API Development']",New York,Healthcare,Part-Time,Entry-level,2022-02-19,150k-200k
+Accountant,IBM,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,Marketing,Full-Time,Senior,2024-07-24,150k-200k
+Financial Analyst,Netflix,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Remote,Education,Full-Time,Senior,2023-05-09,60k-80k
+Talent Acquisition,Amazon,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",London,E-commerce,Part-Time,Senior,2023-04-28,80k-100k
+Accountant,Amazon,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,Healthcare,Contract,Entry-level,2024-01-02,100k-120k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Toronto,Marketing,Part-Time,Senior,2024-07-15,60k-80k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",Seattle,Consulting,Full-Time,Mid-level,2022-12-05,150k-200k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,Marketing,Contract,Mid-level,2023-01-30,120k-150k
+HR Manager,Microsoft,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Sydney,Manufacturing,Contract,Mid-level,2023-01-23,150k-200k
+Software Engineer,Salesforce,"['Java', 'Python', 'C++', 'AWS']",Remote,E-commerce,Internship,Mid-level,2023-11-19,150k-200k
+Full-Stack Developer,Google,"['JavaScript', 'React', 'Node.js', 'SQL']",Seattle,Finance,Full-Time,Entry-level,2022-09-18,150k-200k
+Recruitment Specialist,Netflix,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Sydney,Marketing,Internship,Mid-level,2021-10-13,120k-150k
+Back-End Developer,Amazon,"['Node.js', 'Python', 'SQL', 'API Development']",London,Healthcare,Part-Time,Senior,2024-06-09,100k-120k
+Customer Support Specialist,Tesla,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",San Francisco,Manufacturing,Contract,Senior,2021-10-17,150k-200k
+Project Manager,IBM,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",London,Manufacturing,Part-Time,Mid-level,2021-12-22,100k-120k
+Customer Support Specialist,Microsoft,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Seattle,Healthcare,Internship,Senior,2024-05-27,60k-80k
+Product Manager,Adobe,"['Agile', 'Scrum', 'Leadership', 'Communication']",Seattle,E-commerce,Contract,Mid-level,2024-05-10,150k-200k
+SEO Analyst,Netflix,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",New York,Education,Internship,Mid-level,2023-08-27,120k-150k
+Social Media Manager,Google,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Chicago,Marketing,Part-Time,Mid-level,2022-03-05,80k-100k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",New York,E-commerce,Full-Time,Mid-level,2024-05-02,150k-200k
+Social Media Manager,Microsoft,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",San Francisco,Manufacturing,Contract,Mid-level,2023-03-13,150k-200k
+Front-End Developer,Amazon,"['HTML', 'CSS', 'JavaScript', 'React']",London,Marketing,Internship,Mid-level,2022-11-09,120k-150k
+Project Manager,IBM,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",New York,E-commerce,Internship,Mid-level,2022-10-09,150k-200k
+Software Engineer,Netflix,"['Java', 'Python', 'C++', 'AWS']",New York,Education,Part-Time,Mid-level,2021-10-22,150k-200k
+SEO Analyst,Tesla,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Seattle,Education,Part-Time,Entry-level,2022-04-22,150k-200k
+Investment Analyst,Adobe,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Chicago,Finance,Contract,Entry-level,2022-02-14,60k-80k
+Recruitment Specialist,Google,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Seattle,Marketing,Part-Time,Senior,2023-04-22,60k-80k
+Financial Analyst,Tesla,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",New York,Tech,Full-Time,Entry-level,2022-09-05,120k-150k
+Financial Analyst,Adobe,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Berlin,Marketing,Part-Time,Entry-level,2023-08-17,120k-150k
+Social Media Manager,Adobe,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Berlin,Tech,Contract,Mid-level,2022-03-14,100k-120k
+Social Media Manager,Google,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Chicago,Education,Internship,Mid-level,2023-04-01,100k-120k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Sydney,Consulting,Internship,Mid-level,2021-11-07,80k-100k
+Product Manager,Facebook,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Consulting,Part-Time,Entry-level,2021-11-17,150k-200k
+Customer Success Manager,Amazon,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Berlin,Tech,Full-Time,Senior,2023-11-10,100k-120k
+Business Intelligence Analyst,Adobe,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Seattle,Tech,Part-Time,Entry-level,2023-03-24,150k-200k
+SEO Analyst,Microsoft,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,Finance,Full-Time,Senior,2022-12-03,120k-150k
+Product Manager,Accenture,"['Agile', 'Scrum', 'Leadership', 'Communication']",Seattle,E-commerce,Full-Time,Mid-level,2022-02-28,100k-120k
+Front-End Developer,Facebook,"['HTML', 'CSS', 'JavaScript', 'React']",San Francisco,Consulting,Full-Time,Mid-level,2024-03-07,100k-120k
+Front-End Developer,Amazon,"['HTML', 'CSS', 'JavaScript', 'React']",Toronto,Manufacturing,Full-Time,Mid-level,2022-09-06,100k-120k
+Front-End Developer,Salesforce,"['HTML', 'CSS', 'JavaScript', 'React']",London,Education,Contract,Entry-level,2023-12-28,60k-80k
+Digital Marketing Specialist,Adobe,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Austin,Healthcare,Full-Time,Entry-level,2024-09-20,80k-100k
+Project Manager,Amazon,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Berlin,E-commerce,Part-Time,Senior,2021-11-17,150k-200k
+Customer Support Specialist,Salesforce,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Remote,Consulting,Internship,Mid-level,2021-11-12,100k-120k
+Product Manager,Adobe,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Consulting,Contract,Entry-level,2022-05-03,80k-100k
+Recruitment Specialist,Adobe,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Berlin,E-commerce,Full-Time,Mid-level,2023-02-10,120k-150k
+Product Manager,Microsoft,"['Agile', 'Scrum', 'Leadership', 'Communication']",London,E-commerce,Contract,Senior,2024-03-02,80k-100k
+Financial Analyst,Salesforce,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",New York,Tech,Contract,Mid-level,2023-08-21,60k-80k
+Recruitment Specialist,Microsoft,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Toronto,Marketing,Full-Time,Mid-level,2022-01-17,60k-80k
+Software Engineer,Microsoft,"['Java', 'Python', 'C++', 'AWS']",Seattle,Healthcare,Full-Time,Entry-level,2024-05-10,60k-80k
+Full-Stack Developer,IBM,"['JavaScript', 'React', 'Node.js', 'SQL']",Austin,Consulting,Part-Time,Mid-level,2023-02-08,120k-150k
+Data Analyst,Facebook,"['Python', 'SQL', 'Tableau', 'Excel']",London,Tech,Contract,Senior,2024-06-30,100k-120k
+Customer Success Manager,Tesla,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",London,E-commerce,Internship,Mid-level,2023-09-16,150k-200k
+Product Manager,Tesla,"['Agile', 'Scrum', 'Leadership', 'Communication']",London,Manufacturing,Part-Time,Mid-level,2022-07-18,60k-80k
+Business Intelligence Analyst,Adobe,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,E-commerce,Internship,Senior,2024-01-28,100k-120k
+Customer Support Specialist,Salesforce,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Berlin,Consulting,Contract,Mid-level,2022-11-25,150k-200k
+SEO Analyst,Accenture,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",New York,Consulting,Contract,Senior,2023-03-29,120k-150k
+Accountant,Adobe,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Remote,E-commerce,Contract,Entry-level,2023-01-14,80k-100k
+Software Engineer,Adobe,"['Java', 'Python', 'C++', 'AWS']",New York,Consulting,Contract,Entry-level,2023-07-04,150k-200k
+Product Manager,Netflix,"['Agile', 'Scrum', 'Leadership', 'Communication']",Berlin,E-commerce,Contract,Mid-level,2023-06-29,60k-80k
+HR Manager,Adobe,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,E-commerce,Contract,Senior,2024-07-20,120k-150k
+Business Intelligence Analyst,Netflix,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,E-commerce,Full-Time,Mid-level,2022-11-15,150k-200k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",San Francisco,E-commerce,Full-Time,Senior,2023-02-04,100k-120k
+Full-Stack Developer,IBM,"['JavaScript', 'React', 'Node.js', 'SQL']",Berlin,Education,Internship,Entry-level,2022-03-18,60k-80k
+Technical Product Manager,Accenture,"['Agile', 'Technical Writing', 'API', 'Software Development']",Seattle,Consulting,Full-Time,Mid-level,2023-04-13,80k-100k
+Digital Marketing Specialist,Salesforce,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Berlin,Marketing,Full-Time,Entry-level,2024-01-31,150k-200k
+Back-End Developer,Facebook,"['Node.js', 'Python', 'SQL', 'API Development']",Seattle,Healthcare,Full-Time,Entry-level,2022-03-14,80k-100k
+Business Intelligence Analyst,Facebook,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Seattle,Finance,Part-Time,Mid-level,2024-09-23,120k-150k
+Front-End Developer,Google,"['HTML', 'CSS', 'JavaScript', 'React']",Seattle,Education,Internship,Senior,2023-06-15,60k-80k
+Product Manager,Facebook,"['Agile', 'Scrum', 'Leadership', 'Communication']",Toronto,Manufacturing,Internship,Entry-level,2023-08-16,150k-200k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Berlin,E-commerce,Part-Time,Senior,2024-04-26,150k-200k
+Accountant,Adobe,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Sydney,E-commerce,Full-Time,Entry-level,2024-07-19,80k-100k
+Software Engineer,Google,"['Java', 'Python', 'C++', 'AWS']",New York,Finance,Part-Time,Senior,2022-08-12,80k-100k
+Customer Support Specialist,IBM,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",London,Education,Contract,Entry-level,2021-11-10,100k-120k
+Product Manager,IBM,"['Agile', 'Scrum', 'Leadership', 'Communication']",Chicago,Marketing,Full-Time,Entry-level,2022-02-27,80k-100k
+Customer Success Manager,IBM,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Seattle,Education,Internship,Senior,2022-07-12,100k-120k
+Project Manager,Salesforce,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Chicago,Finance,Internship,Mid-level,2022-01-18,100k-120k
+Financial Analyst,Accenture,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Remote,Finance,Full-Time,Senior,2023-04-19,80k-100k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Berlin,Healthcare,Internship,Senior,2023-12-20,60k-80k
+Back-End Developer,Tesla,"['Node.js', 'Python', 'SQL', 'API Development']",Remote,Education,Full-Time,Mid-level,2023-08-28,120k-150k
+Financial Analyst,Netflix,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,E-commerce,Part-Time,Senior,2022-09-27,120k-150k
+Front-End Developer,Salesforce,"['HTML', 'CSS', 'JavaScript', 'React']",Toronto,Healthcare,Full-Time,Entry-level,2021-11-01,150k-200k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Finance,Internship,Entry-level,2024-08-16,60k-80k
+Product Manager,Salesforce,"['Agile', 'Scrum', 'Leadership', 'Communication']",Remote,Finance,Internship,Entry-level,2023-09-22,100k-120k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",Toronto,Consulting,Part-Time,Senior,2023-05-11,80k-100k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",San Francisco,E-commerce,Internship,Mid-level,2024-03-09,60k-80k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,E-commerce,Contract,Entry-level,2023-11-20,150k-200k
+Social Media Manager,IBM,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",London,Manufacturing,Internship,Senior,2024-07-20,150k-200k
+Investment Analyst,Adobe,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",London,E-commerce,Part-Time,Senior,2023-12-22,60k-80k
+Business Intelligence Analyst,Tesla,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Austin,Education,Contract,Senior,2024-10-03,80k-100k
+Business Intelligence Analyst,Netflix,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,Education,Internship,Mid-level,2022-12-18,150k-200k
+Accountant,Amazon,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Chicago,Manufacturing,Internship,Mid-level,2022-09-27,150k-200k
+Data Analyst,Google,"['Python', 'SQL', 'Tableau', 'Excel']",Remote,Consulting,Part-Time,Senior,2021-12-23,100k-120k
+HR Manager,Facebook,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",San Francisco,E-commerce,Full-Time,Mid-level,2024-01-24,60k-80k
+Product Manager,Netflix,"['Agile', 'Scrum', 'Leadership', 'Communication']",Austin,Healthcare,Part-Time,Senior,2022-06-11,80k-100k
+Back-End Developer,Google,"['Node.js', 'Python', 'SQL', 'API Development']",Berlin,Manufacturing,Full-Time,Entry-level,2023-08-27,120k-150k
+HR Manager,Adobe,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,Tech,Full-Time,Senior,2024-04-10,60k-80k
+Customer Success Manager,Accenture,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Seattle,Healthcare,Contract,Mid-level,2023-06-09,120k-150k
+Business Intelligence Analyst,Adobe,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Berlin,Marketing,Part-Time,Entry-level,2024-07-14,120k-150k
+Software Engineer,Tesla,"['Java', 'Python', 'C++', 'AWS']",Berlin,Finance,Full-Time,Entry-level,2024-02-27,60k-80k
+Technical Product Manager,Netflix,"['Agile', 'Technical Writing', 'API', 'Software Development']",Chicago,Tech,Contract,Senior,2024-06-27,150k-200k
+Social Media Manager,Adobe,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Remote,Tech,Contract,Senior,2022-07-20,60k-80k
+SEO Analyst,Facebook,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,Education,Internship,Senior,2021-12-18,60k-80k
+Social Media Manager,Amazon,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Remote,Consulting,Internship,Mid-level,2022-04-07,120k-150k
+Accountant,Salesforce,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,E-commerce,Part-Time,Mid-level,2022-07-27,80k-100k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,Manufacturing,Part-Time,Senior,2023-11-01,150k-200k
+Product Manager,IBM,"['Agile', 'Scrum', 'Leadership', 'Communication']",Chicago,Healthcare,Internship,Senior,2024-02-05,120k-150k
+Social Media Manager,Netflix,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",San Francisco,Education,Part-Time,Mid-level,2023-07-07,60k-80k
+SEO Analyst,Facebook,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Toronto,E-commerce,Part-Time,Mid-level,2023-09-01,100k-120k
+Talent Acquisition,Accenture,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Seattle,Tech,Contract,Entry-level,2024-03-05,80k-100k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,Manufacturing,Contract,Mid-level,2024-08-08,150k-200k
+Investment Analyst,Salesforce,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,E-commerce,Contract,Senior,2022-03-20,60k-80k
+SEO Analyst,Facebook,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",San Francisco,Tech,Internship,Mid-level,2022-06-13,60k-80k
+Digital Marketing Specialist,Amazon,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Tech,Part-Time,Mid-level,2024-02-26,120k-150k
+Full-Stack Developer,Tesla,"['JavaScript', 'React', 'Node.js', 'SQL']",Remote,Healthcare,Full-Time,Mid-level,2023-02-09,150k-200k
+Social Media Manager,Google,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",London,Tech,Part-Time,Mid-level,2023-07-30,120k-150k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",San Francisco,Consulting,Part-Time,Mid-level,2022-12-08,120k-150k
+Financial Analyst,Microsoft,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Seattle,Tech,Part-Time,Entry-level,2023-04-29,150k-200k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Chicago,E-commerce,Full-Time,Senior,2024-01-24,150k-200k
+HR Manager,Facebook,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,Finance,Contract,Senior,2022-07-14,150k-200k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",New York,Consulting,Contract,Entry-level,2023-04-02,120k-150k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Berlin,Education,Part-Time,Mid-level,2021-11-05,120k-150k
+HR Manager,Google,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Healthcare,Contract,Entry-level,2022-07-31,100k-120k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,E-commerce,Part-Time,Entry-level,2024-07-24,120k-150k
+Customer Support Specialist,IBM,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",San Francisco,E-commerce,Internship,Mid-level,2023-05-26,120k-150k
+Customer Success Manager,Salesforce,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Austin,Marketing,Part-Time,Mid-level,2024-08-19,60k-80k
+Product Manager,Microsoft,"['Agile', 'Scrum', 'Leadership', 'Communication']",Toronto,Education,Contract,Mid-level,2024-05-16,80k-100k
+Digital Marketing Specialist,IBM,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Berlin,Education,Full-Time,Senior,2024-02-14,80k-100k
+Recruitment Specialist,Netflix,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Sydney,Consulting,Internship,Entry-level,2023-04-19,120k-150k
+Full-Stack Developer,Google,"['JavaScript', 'React', 'Node.js', 'SQL']",Toronto,Marketing,Internship,Mid-level,2023-12-23,120k-150k
+Customer Support Specialist,Google,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",London,Healthcare,Internship,Entry-level,2021-11-07,100k-120k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Toronto,Tech,Contract,Entry-level,2022-06-20,80k-100k
+Business Intelligence Analyst,Netflix,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Sydney,Finance,Internship,Senior,2023-07-03,80k-100k
+Customer Support Specialist,Tesla,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",London,Consulting,Part-Time,Senior,2021-10-07,150k-200k
+Back-End Developer,Facebook,"['Node.js', 'Python', 'SQL', 'API Development']",Austin,Manufacturing,Internship,Mid-level,2021-11-23,80k-100k
+Talent Acquisition,Tesla,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Berlin,E-commerce,Internship,Entry-level,2023-10-19,120k-150k
+Software Engineer,Tesla,"['Java', 'Python', 'C++', 'AWS']",Seattle,Tech,Internship,Senior,2021-12-11,150k-200k
+SEO Analyst,Google,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Toronto,Finance,Full-Time,Entry-level,2023-08-06,100k-120k
+Project Manager,IBM,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Toronto,Manufacturing,Part-Time,Entry-level,2024-04-16,150k-200k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,Tech,Full-Time,Entry-level,2024-01-16,150k-200k
+Investment Analyst,Amazon,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",New York,Tech,Part-Time,Senior,2023-02-25,80k-100k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,E-commerce,Internship,Entry-level,2022-04-16,80k-100k
+Customer Support Specialist,Google,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Remote,Healthcare,Full-Time,Entry-level,2021-11-28,120k-150k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Remote,Tech,Contract,Mid-level,2022-10-12,100k-120k
+Social Media Manager,Tesla,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,Marketing,Internship,Mid-level,2023-01-23,60k-80k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,Education,Contract,Senior,2023-11-25,100k-120k
+Investment Analyst,Amazon,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Berlin,Education,Internship,Senior,2021-12-24,120k-150k
+Customer Support Specialist,Tesla,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,E-commerce,Internship,Mid-level,2022-05-16,120k-150k
+Project Manager,Adobe,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",New York,Education,Full-Time,Entry-level,2024-03-06,150k-200k
+Project Manager,Accenture,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",London,Consulting,Part-Time,Entry-level,2023-02-27,150k-200k
+Full-Stack Developer,Netflix,"['JavaScript', 'React', 'Node.js', 'SQL']",New York,Consulting,Full-Time,Entry-level,2022-02-17,80k-100k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Education,Full-Time,Mid-level,2022-09-05,150k-200k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Seattle,Consulting,Contract,Mid-level,2023-10-06,80k-100k
+Social Media Manager,Tesla,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",New York,Manufacturing,Internship,Mid-level,2024-06-05,100k-120k
+Social Media Manager,Tesla,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Berlin,Finance,Part-Time,Senior,2023-01-04,120k-150k
+Financial Analyst,Tesla,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Chicago,Manufacturing,Full-Time,Mid-level,2022-03-03,100k-120k
+Full-Stack Developer,Tesla,"['JavaScript', 'React', 'Node.js', 'SQL']",Austin,E-commerce,Full-Time,Entry-level,2022-10-21,100k-120k
+Business Intelligence Analyst,Salesforce,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,E-commerce,Internship,Mid-level,2022-05-07,60k-80k
+Financial Analyst,Tesla,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Berlin,Consulting,Contract,Senior,2022-11-23,60k-80k
+Front-End Developer,Microsoft,"['HTML', 'CSS', 'JavaScript', 'React']",London,Marketing,Full-Time,Entry-level,2022-08-22,60k-80k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",London,Marketing,Full-Time,Mid-level,2024-08-22,100k-120k
+Data Analyst,Google,"['Python', 'SQL', 'Tableau', 'Excel']",New York,Education,Contract,Mid-level,2023-05-11,80k-100k
+Financial Analyst,Amazon,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,Tech,Part-Time,Senior,2022-04-24,60k-80k
+Back-End Developer,Netflix,"['Node.js', 'Python', 'SQL', 'API Development']",Chicago,Tech,Full-Time,Senior,2024-03-01,60k-80k
+Digital Marketing Specialist,Tesla,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Chicago,Manufacturing,Internship,Mid-level,2023-08-04,120k-150k
+Data Analyst,Microsoft,"['Python', 'SQL', 'Tableau', 'Excel']",Austin,Consulting,Full-Time,Entry-level,2024-03-02,100k-120k
+Full-Stack Developer,Tesla,"['JavaScript', 'React', 'Node.js', 'SQL']",London,Manufacturing,Internship,Senior,2022-11-13,100k-120k
+Software Engineer,Tesla,"['Java', 'Python', 'C++', 'AWS']",New York,Education,Part-Time,Entry-level,2022-07-15,100k-120k
+Digital Marketing Specialist,Amazon,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Tech,Part-Time,Mid-level,2023-01-21,150k-200k
+Recruitment Specialist,Facebook,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",New York,E-commerce,Contract,Entry-level,2024-04-22,120k-150k
+Full-Stack Developer,Microsoft,"['JavaScript', 'React', 'Node.js', 'SQL']",Chicago,Healthcare,Part-Time,Senior,2022-12-09,80k-100k
+Product Manager,Tesla,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Finance,Part-Time,Mid-level,2024-01-13,100k-120k
+Investment Analyst,Google,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Remote,Education,Part-Time,Entry-level,2022-09-02,120k-150k
+Project Manager,Netflix,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Berlin,Healthcare,Full-Time,Mid-level,2024-04-25,100k-120k
+Data Scientist,Google,"['Python', 'R', 'Machine Learning', 'Statistics']",Austin,Tech,Part-Time,Entry-level,2021-12-16,100k-120k
+Software Engineer,Facebook,"['Java', 'Python', 'C++', 'AWS']",Toronto,Manufacturing,Internship,Mid-level,2023-02-07,150k-200k
+Software Engineer,Google,"['Java', 'Python', 'C++', 'AWS']",Chicago,Marketing,Contract,Senior,2022-04-06,100k-120k
+Back-End Developer,Facebook,"['Node.js', 'Python', 'SQL', 'API Development']",Sydney,Finance,Full-Time,Entry-level,2022-10-28,150k-200k
+Project Manager,Google,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Chicago,Marketing,Part-Time,Entry-level,2023-05-10,120k-150k
+Digital Marketing Specialist,Microsoft,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",New York,Finance,Full-Time,Entry-level,2024-04-17,80k-100k
+Business Intelligence Analyst,Microsoft,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Seattle,Marketing,Part-Time,Senior,2022-04-26,80k-100k
+Data Scientist,Adobe,"['Python', 'R', 'Machine Learning', 'Statistics']",Seattle,Manufacturing,Internship,Senior,2022-08-03,150k-200k
+SEO Analyst,Netflix,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,Healthcare,Part-Time,Mid-level,2023-04-14,150k-200k
+Full-Stack Developer,Microsoft,"['JavaScript', 'React', 'Node.js', 'SQL']",London,Marketing,Part-Time,Senior,2023-09-09,120k-150k
+Data Analyst,Salesforce,"['Python', 'SQL', 'Tableau', 'Excel']",Austin,E-commerce,Full-Time,Mid-level,2024-07-06,60k-80k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Austin,Marketing,Full-Time,Senior,2022-04-23,150k-200k
+Customer Success Manager,Netflix,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Seattle,Healthcare,Contract,Entry-level,2021-11-03,60k-80k
+Software Engineer,IBM,"['Java', 'Python', 'C++', 'AWS']",Seattle,Healthcare,Internship,Entry-level,2023-03-31,150k-200k
+Data Scientist,Tesla,"['Python', 'R', 'Machine Learning', 'Statistics']",Remote,Education,Full-Time,Senior,2023-10-03,120k-150k
+Back-End Developer,Microsoft,"['Node.js', 'Python', 'SQL', 'API Development']",Chicago,E-commerce,Contract,Entry-level,2024-08-03,120k-150k
+Financial Analyst,Salesforce,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Austin,Education,Full-Time,Entry-level,2024-07-11,60k-80k
+Talent Acquisition,Google,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Chicago,Manufacturing,Part-Time,Mid-level,2023-06-10,100k-120k
+Social Media Manager,Google,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,Finance,Internship,Senior,2021-12-28,80k-100k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Seattle,Consulting,Internship,Mid-level,2023-02-17,150k-200k
+Social Media Manager,Netflix,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,E-commerce,Part-Time,Mid-level,2023-07-13,100k-120k
+Back-End Developer,Microsoft,"['Node.js', 'Python', 'SQL', 'API Development']",Toronto,Education,Internship,Mid-level,2023-06-29,100k-120k
+Data Analyst,Accenture,"['Python', 'SQL', 'Tableau', 'Excel']",San Francisco,Healthcare,Contract,Entry-level,2023-06-27,60k-80k
+Back-End Developer,Google,"['Node.js', 'Python', 'SQL', 'API Development']",San Francisco,Healthcare,Full-Time,Entry-level,2023-03-08,60k-80k
+Full-Stack Developer,Accenture,"['JavaScript', 'React', 'Node.js', 'SQL']",New York,Education,Full-Time,Entry-level,2023-03-10,60k-80k
+Project Manager,Accenture,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Remote,E-commerce,Contract,Entry-level,2022-03-28,120k-150k
+Customer Support Specialist,Google,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Chicago,Education,Full-Time,Entry-level,2022-06-19,80k-100k
+Talent Acquisition,Salesforce,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Toronto,Healthcare,Part-Time,Entry-level,2022-04-26,150k-200k
+Recruitment Specialist,Accenture,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",San Francisco,Marketing,Full-Time,Mid-level,2024-05-24,80k-100k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",Remote,Tech,Full-Time,Entry-level,2022-10-29,150k-200k
+Recruitment Specialist,Salesforce,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Seattle,E-commerce,Contract,Mid-level,2022-08-13,150k-200k
+Back-End Developer,Facebook,"['Node.js', 'Python', 'SQL', 'API Development']",Seattle,Tech,Full-Time,Mid-level,2023-01-14,150k-200k
+Talent Acquisition,Salesforce,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Seattle,Education,Part-Time,Senior,2024-01-01,60k-80k
+Software Engineer,IBM,"['Java', 'Python', 'C++', 'AWS']",Seattle,Finance,Part-Time,Mid-level,2023-10-24,100k-120k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Seattle,Finance,Full-Time,Mid-level,2022-03-11,120k-150k
+Customer Support Specialist,Microsoft,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,Education,Contract,Entry-level,2023-09-06,80k-100k
+Investment Analyst,Adobe,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Austin,Education,Full-Time,Senior,2022-07-22,150k-200k
+Product Manager,Tesla,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Manufacturing,Part-Time,Mid-level,2023-10-11,120k-150k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Marketing,Full-Time,Senior,2022-02-08,80k-100k
+Back-End Developer,Facebook,"['Node.js', 'Python', 'SQL', 'API Development']",Toronto,Tech,Full-Time,Entry-level,2022-06-20,120k-150k
+Front-End Developer,Salesforce,"['HTML', 'CSS', 'JavaScript', 'React']",Toronto,Education,Full-Time,Entry-level,2024-04-16,150k-200k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Toronto,Consulting,Contract,Mid-level,2024-04-15,120k-150k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Berlin,Tech,Internship,Mid-level,2022-07-28,80k-100k
+Front-End Developer,Google,"['HTML', 'CSS', 'JavaScript', 'React']",Chicago,Finance,Part-Time,Senior,2024-07-31,100k-120k
+Financial Analyst,Google,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,Marketing,Contract,Mid-level,2022-10-04,120k-150k
+Back-End Developer,Salesforce,"['Node.js', 'Python', 'SQL', 'API Development']",Austin,Finance,Full-Time,Mid-level,2022-06-21,150k-200k
+Project Manager,Salesforce,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Berlin,Consulting,Internship,Entry-level,2023-07-02,100k-120k
+Project Manager,Amazon,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Seattle,E-commerce,Full-Time,Senior,2022-04-08,80k-100k
+Project Manager,IBM,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Sydney,Consulting,Contract,Entry-level,2021-11-06,150k-200k
+Technical Product Manager,Google,"['Agile', 'Technical Writing', 'API', 'Software Development']",Sydney,Tech,Internship,Senior,2024-09-03,80k-100k
+HR Manager,Google,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Toronto,Education,Part-Time,Senior,2022-08-11,100k-120k
+Product Manager,Google,"['Agile', 'Scrum', 'Leadership', 'Communication']",Sydney,Marketing,Part-Time,Mid-level,2024-05-24,60k-80k
+Recruitment Specialist,Google,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Chicago,Education,Internship,Mid-level,2023-04-23,80k-100k
+Full-Stack Developer,Salesforce,"['JavaScript', 'React', 'Node.js', 'SQL']",Berlin,Manufacturing,Contract,Entry-level,2022-10-31,150k-200k
+Customer Success Manager,Google,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Sydney,E-commerce,Contract,Mid-level,2024-09-02,120k-150k
+Investment Analyst,Netflix,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,Manufacturing,Part-Time,Mid-level,2021-11-24,120k-150k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",London,Healthcare,Full-Time,Mid-level,2022-06-20,100k-120k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",London,Marketing,Contract,Senior,2022-03-08,60k-80k
+Project Manager,Netflix,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Sydney,Consulting,Part-Time,Senior,2024-04-15,60k-80k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Toronto,Tech,Part-Time,Senior,2024-06-07,100k-120k
+Software Engineer,Amazon,"['Java', 'Python', 'C++', 'AWS']",Austin,Consulting,Full-Time,Mid-level,2023-07-25,120k-150k
+Social Media Manager,IBM,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",New York,Education,Part-Time,Mid-level,2023-02-15,150k-200k
+Software Engineer,Microsoft,"['Java', 'Python', 'C++', 'AWS']",Remote,E-commerce,Full-Time,Entry-level,2023-01-17,120k-150k
+Talent Acquisition,Adobe,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Berlin,Finance,Full-Time,Mid-level,2024-05-25,80k-100k
+Social Media Manager,Adobe,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Chicago,Finance,Part-Time,Mid-level,2022-03-08,100k-120k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Sydney,Tech,Contract,Mid-level,2023-02-10,80k-100k
+Data Scientist,Microsoft,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,Healthcare,Full-Time,Entry-level,2022-06-22,100k-120k
+Financial Analyst,IBM,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,Consulting,Internship,Senior,2024-09-17,80k-100k
+Customer Success Manager,Microsoft,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Chicago,E-commerce,Internship,Entry-level,2023-08-26,120k-150k
+Back-End Developer,IBM,"['Node.js', 'Python', 'SQL', 'API Development']",Seattle,Tech,Full-Time,Entry-level,2023-01-04,150k-200k
+Project Manager,Adobe,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Remote,Consulting,Internship,Entry-level,2022-02-18,100k-120k
+Business Intelligence Analyst,Salesforce,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Remote,Healthcare,Full-Time,Entry-level,2023-06-13,100k-120k
+SEO Analyst,Google,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,E-commerce,Full-Time,Entry-level,2024-06-07,60k-80k
+Project Manager,Tesla,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",London,E-commerce,Internship,Mid-level,2022-02-13,150k-200k
+Business Intelligence Analyst,Netflix,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Toronto,Marketing,Full-Time,Mid-level,2023-10-14,150k-200k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,E-commerce,Part-Time,Senior,2022-10-16,120k-150k
+Recruitment Specialist,Tesla,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Austin,Consulting,Contract,Mid-level,2024-06-26,120k-150k
+Recruitment Specialist,Microsoft,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Toronto,E-commerce,Part-Time,Entry-level,2024-09-10,120k-150k
+Project Manager,Salesforce,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Toronto,Education,Part-Time,Senior,2023-10-08,60k-80k
+Technical Product Manager,IBM,"['Agile', 'Technical Writing', 'API', 'Software Development']",Austin,Healthcare,Full-Time,Entry-level,2024-04-18,80k-100k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Education,Part-Time,Entry-level,2022-05-04,100k-120k
+Accountant,IBM,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Toronto,Education,Full-Time,Mid-level,2023-11-17,60k-80k
+SEO Analyst,Google,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",New York,Tech,Full-Time,Mid-level,2021-12-22,120k-150k
+Customer Support Specialist,Microsoft,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Seattle,Finance,Full-Time,Mid-level,2022-05-31,120k-150k
+Data Scientist,Adobe,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Healthcare,Internship,Entry-level,2022-04-17,100k-120k
+Software Engineer,Facebook,"['Java', 'Python', 'C++', 'AWS']",San Francisco,Tech,Internship,Entry-level,2022-01-19,100k-120k
+Customer Support Specialist,Accenture,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",New York,Tech,Internship,Mid-level,2023-06-19,100k-120k
+Talent Acquisition,Facebook,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Remote,Education,Part-Time,Entry-level,2024-09-04,80k-100k
+SEO Analyst,Microsoft,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Chicago,Finance,Contract,Senior,2022-06-23,60k-80k
+Financial Analyst,IBM,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Berlin,Manufacturing,Part-Time,Entry-level,2022-01-10,60k-80k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Remote,Consulting,Internship,Entry-level,2023-11-16,60k-80k
+Customer Support Specialist,Accenture,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Toronto,Manufacturing,Contract,Senior,2022-04-29,120k-150k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",London,Finance,Contract,Senior,2021-12-14,60k-80k
+Data Analyst,Google,"['Python', 'SQL', 'Tableau', 'Excel']",Seattle,Marketing,Contract,Senior,2021-12-14,150k-200k
+Product Manager,Accenture,"['Agile', 'Scrum', 'Leadership', 'Communication']",London,E-commerce,Contract,Senior,2022-05-10,80k-100k
+Accountant,IBM,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Remote,Finance,Part-Time,Entry-level,2023-06-14,80k-100k
+Project Manager,Microsoft,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",London,Manufacturing,Contract,Senior,2022-02-13,150k-200k
+Customer Success Manager,Facebook,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Remote,Finance,Contract,Mid-level,2022-08-18,120k-150k
+Full-Stack Developer,Netflix,"['JavaScript', 'React', 'Node.js', 'SQL']",Sydney,Education,Part-Time,Mid-level,2022-06-09,120k-150k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",London,Marketing,Internship,Entry-level,2024-05-20,60k-80k
+Front-End Developer,Facebook,"['HTML', 'CSS', 'JavaScript', 'React']",San Francisco,E-commerce,Part-Time,Mid-level,2024-07-06,120k-150k
+Talent Acquisition,Accenture,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Toronto,Education,Part-Time,Mid-level,2023-03-10,60k-80k
+Accountant,Microsoft,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Berlin,Education,Full-Time,Entry-level,2022-12-05,60k-80k
+Investment Analyst,IBM,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",San Francisco,Tech,Part-Time,Entry-level,2022-02-09,60k-80k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,Marketing,Full-Time,Senior,2023-05-12,100k-120k
+Product Manager,Tesla,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Marketing,Part-Time,Senior,2023-08-12,120k-150k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",San Francisco,Marketing,Internship,Entry-level,2023-05-21,100k-120k
+Data Analyst,Netflix,"['Python', 'SQL', 'Tableau', 'Excel']",Chicago,Healthcare,Internship,Mid-level,2023-01-26,120k-150k
+Customer Support Specialist,IBM,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Remote,Finance,Internship,Entry-level,2024-04-23,120k-150k
+Data Analyst,Adobe,"['Python', 'SQL', 'Tableau', 'Excel']",Remote,Healthcare,Part-Time,Entry-level,2021-10-07,150k-200k
+Social Media Manager,Tesla,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",San Francisco,Marketing,Internship,Senior,2023-08-21,60k-80k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,E-commerce,Full-Time,Senior,2023-08-17,80k-100k
+Data Analyst,Facebook,"['Python', 'SQL', 'Tableau', 'Excel']",London,E-commerce,Full-Time,Mid-level,2022-02-20,60k-80k
+Data Scientist,Adobe,"['Python', 'R', 'Machine Learning', 'Statistics']",London,Consulting,Part-Time,Entry-level,2021-12-28,80k-100k
+Business Intelligence Analyst,Google,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Sydney,Finance,Contract,Mid-level,2022-04-04,100k-120k
+HR Manager,Google,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,Marketing,Contract,Entry-level,2023-01-16,80k-100k
+Full-Stack Developer,Accenture,"['JavaScript', 'React', 'Node.js', 'SQL']",San Francisco,Consulting,Contract,Mid-level,2023-09-11,100k-120k
+SEO Analyst,Accenture,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",San Francisco,Marketing,Full-Time,Senior,2023-12-06,100k-120k
+Investment Analyst,Accenture,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Sydney,Healthcare,Internship,Senior,2022-10-26,150k-200k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Berlin,Marketing,Contract,Senior,2024-01-19,80k-100k
+Digital Marketing Specialist,Adobe,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Finance,Part-Time,Senior,2023-10-21,120k-150k
+Data Analyst,Accenture,"['Python', 'SQL', 'Tableau', 'Excel']",Chicago,Consulting,Part-Time,Mid-level,2023-10-10,80k-100k
+Digital Marketing Specialist,Google,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Toronto,Education,Contract,Entry-level,2022-11-20,100k-120k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Sydney,Marketing,Internship,Entry-level,2023-09-04,120k-150k
+Back-End Developer,Microsoft,"['Node.js', 'Python', 'SQL', 'API Development']",Sydney,Healthcare,Contract,Entry-level,2024-06-25,80k-100k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",Toronto,Tech,Part-Time,Senior,2023-03-29,100k-120k
+Financial Analyst,Google,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",New York,Consulting,Contract,Mid-level,2024-08-05,100k-120k
+Recruitment Specialist,Facebook,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Sydney,Consulting,Full-Time,Entry-level,2024-04-27,120k-150k
+Financial Analyst,Facebook,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,Healthcare,Internship,Mid-level,2022-10-21,150k-200k
+Software Engineer,Adobe,"['Java', 'Python', 'C++', 'AWS']",Sydney,Education,Full-Time,Mid-level,2022-08-24,120k-150k
+Social Media Manager,Salesforce,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Berlin,E-commerce,Full-Time,Entry-level,2024-05-13,80k-100k
+Recruitment Specialist,Accenture,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Seattle,E-commerce,Full-Time,Mid-level,2022-04-20,60k-80k
+SEO Analyst,Salesforce,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,Consulting,Part-Time,Senior,2023-01-18,120k-150k
+Customer Success Manager,Google,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Seattle,Marketing,Contract,Senior,2021-11-05,120k-150k
+Front-End Developer,Microsoft,"['HTML', 'CSS', 'JavaScript', 'React']",Chicago,Manufacturing,Full-Time,Senior,2023-06-15,100k-120k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",New York,E-commerce,Contract,Mid-level,2021-11-25,150k-200k
+Social Media Manager,Amazon,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",New York,Education,Internship,Entry-level,2023-08-14,60k-80k
+Investment Analyst,Google,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Remote,Education,Full-Time,Mid-level,2022-10-23,80k-100k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Seattle,Education,Full-Time,Mid-level,2024-08-18,150k-200k
+Front-End Developer,Amazon,"['HTML', 'CSS', 'JavaScript', 'React']",Seattle,Consulting,Full-Time,Mid-level,2022-04-08,150k-200k
+Accountant,Adobe,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Remote,E-commerce,Part-Time,Senior,2022-11-04,80k-100k
+Full-Stack Developer,Facebook,"['JavaScript', 'React', 'Node.js', 'SQL']",New York,Tech,Part-Time,Senior,2024-03-17,120k-150k
+Full-Stack Developer,Tesla,"['JavaScript', 'React', 'Node.js', 'SQL']",Toronto,Education,Internship,Mid-level,2022-07-31,80k-100k
+Data Analyst,IBM,"['Python', 'SQL', 'Tableau', 'Excel']",San Francisco,Finance,Part-Time,Mid-level,2023-05-04,80k-100k
+Business Intelligence Analyst,Adobe,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",San Francisco,Finance,Full-Time,Mid-level,2024-01-07,150k-200k
+Product Manager,Facebook,"['Agile', 'Scrum', 'Leadership', 'Communication']",New York,Consulting,Part-Time,Mid-level,2023-10-09,100k-120k
+Customer Support Specialist,Microsoft,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Remote,Tech,Internship,Senior,2023-10-31,150k-200k
+Business Intelligence Analyst,Amazon,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Berlin,Tech,Internship,Senior,2021-11-19,80k-100k
+Digital Marketing Specialist,Tesla,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Marketing,Part-Time,Senior,2022-01-05,60k-80k
+Recruitment Specialist,Facebook,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Chicago,Finance,Full-Time,Mid-level,2023-01-22,60k-80k
+Software Engineer,Accenture,"['Java', 'Python', 'C++', 'AWS']",New York,Manufacturing,Internship,Entry-level,2024-06-21,120k-150k
+Technical Product Manager,Salesforce,"['Agile', 'Technical Writing', 'API', 'Software Development']",Toronto,Marketing,Part-Time,Entry-level,2023-01-19,100k-120k
+Full-Stack Developer,Amazon,"['JavaScript', 'React', 'Node.js', 'SQL']",Sydney,Healthcare,Part-Time,Mid-level,2024-06-03,60k-80k
+Product Manager,Google,"['Agile', 'Scrum', 'Leadership', 'Communication']",New York,E-commerce,Part-Time,Entry-level,2022-06-12,120k-150k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",Sydney,E-commerce,Full-Time,Senior,2022-11-17,80k-100k
+Product Manager,Amazon,"['Agile', 'Scrum', 'Leadership', 'Communication']",Austin,Healthcare,Full-Time,Senior,2022-07-21,150k-200k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",New York,Finance,Internship,Entry-level,2022-05-18,80k-100k
+Recruitment Specialist,Microsoft,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Chicago,Finance,Full-Time,Senior,2021-12-08,100k-120k
+Front-End Developer,Google,"['HTML', 'CSS', 'JavaScript', 'React']",Sydney,Finance,Internship,Senior,2024-04-19,80k-100k
+Recruitment Specialist,Amazon,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Berlin,Healthcare,Part-Time,Mid-level,2024-08-05,120k-150k
+Social Media Manager,Netflix,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Remote,E-commerce,Part-Time,Mid-level,2022-05-11,100k-120k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",London,Consulting,Part-Time,Entry-level,2023-07-31,120k-150k
+Full-Stack Developer,IBM,"['JavaScript', 'React', 'Node.js', 'SQL']",Sydney,Tech,Full-Time,Mid-level,2022-09-28,60k-80k
+Business Intelligence Analyst,Netflix,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Seattle,Education,Internship,Mid-level,2022-12-29,120k-150k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Remote,Consulting,Part-Time,Mid-level,2023-04-07,120k-150k
+SEO Analyst,Facebook,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Seattle,Marketing,Contract,Mid-level,2023-06-26,120k-150k
+Back-End Developer,Amazon,"['Node.js', 'Python', 'SQL', 'API Development']",Austin,Consulting,Contract,Entry-level,2021-12-01,80k-100k
+Data Analyst,Adobe,"['Python', 'SQL', 'Tableau', 'Excel']",Remote,Marketing,Full-Time,Entry-level,2022-11-22,100k-120k
+Customer Success Manager,Accenture,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Remote,Healthcare,Internship,Entry-level,2022-11-06,120k-150k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",Remote,Marketing,Internship,Mid-level,2024-03-20,120k-150k
+Financial Analyst,Adobe,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,Education,Contract,Entry-level,2022-06-21,80k-100k
+Front-End Developer,Netflix,"['HTML', 'CSS', 'JavaScript', 'React']",Sydney,Manufacturing,Part-Time,Senior,2023-07-05,60k-80k
+Financial Analyst,Accenture,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Chicago,Marketing,Part-Time,Entry-level,2021-11-25,100k-120k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,Consulting,Full-Time,Senior,2024-09-21,120k-150k
+Financial Analyst,Salesforce,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",San Francisco,Education,Part-Time,Entry-level,2023-01-08,60k-80k
+Back-End Developer,Amazon,"['Node.js', 'Python', 'SQL', 'API Development']",Remote,Healthcare,Full-Time,Mid-level,2021-11-02,80k-100k
+Data Analyst,Accenture,"['Python', 'SQL', 'Tableau', 'Excel']",Austin,Tech,Internship,Entry-level,2021-12-12,120k-150k
+Accountant,Accenture,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",San Francisco,Consulting,Contract,Mid-level,2023-06-29,80k-100k
+SEO Analyst,Microsoft,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",London,E-commerce,Full-Time,Entry-level,2023-09-24,120k-150k
+Data Analyst,IBM,"['Python', 'SQL', 'Tableau', 'Excel']",London,Education,Full-Time,Entry-level,2024-04-26,120k-150k
+Technical Product Manager,Facebook,"['Agile', 'Technical Writing', 'API', 'Software Development']",Sydney,Finance,Internship,Mid-level,2023-08-11,60k-80k
+Software Engineer,Netflix,"['Java', 'Python', 'C++', 'AWS']",Sydney,Manufacturing,Contract,Entry-level,2022-06-14,100k-120k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",San Francisco,Tech,Full-Time,Mid-level,2024-06-24,80k-100k
+Business Intelligence Analyst,Facebook,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,Marketing,Full-Time,Senior,2024-06-30,120k-150k
+Full-Stack Developer,Salesforce,"['JavaScript', 'React', 'Node.js', 'SQL']",Seattle,Consulting,Part-Time,Mid-level,2023-08-10,100k-120k
+Product Manager,Microsoft,"['Agile', 'Scrum', 'Leadership', 'Communication']",Sydney,Tech,Part-Time,Senior,2024-04-25,120k-150k
+Talent Acquisition,Google,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",London,E-commerce,Contract,Mid-level,2023-01-22,100k-120k
+Product Manager,Salesforce,"['Agile', 'Scrum', 'Leadership', 'Communication']",Berlin,Tech,Internship,Mid-level,2023-11-07,80k-100k
+Data Analyst,Tesla,"['Python', 'SQL', 'Tableau', 'Excel']",Remote,Marketing,Contract,Senior,2023-12-18,60k-80k
+Software Engineer,Netflix,"['Java', 'Python', 'C++', 'AWS']",Sydney,Education,Full-Time,Senior,2023-01-20,60k-80k
+Financial Analyst,Amazon,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Austin,E-commerce,Full-Time,Mid-level,2023-02-20,100k-120k
+Talent Acquisition,Amazon,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Berlin,E-commerce,Contract,Senior,2021-10-15,100k-120k
+Business Intelligence Analyst,Facebook,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Sydney,Tech,Contract,Mid-level,2024-07-01,80k-100k
+Accountant,Netflix,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Berlin,Healthcare,Internship,Mid-level,2023-09-19,80k-100k
+Data Analyst,Salesforce,"['Python', 'SQL', 'Tableau', 'Excel']",New York,Finance,Internship,Mid-level,2021-12-10,80k-100k
+Accountant,Microsoft,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Berlin,Tech,Contract,Mid-level,2022-08-24,80k-100k
+Full-Stack Developer,Amazon,"['JavaScript', 'React', 'Node.js', 'SQL']",New York,Healthcare,Contract,Senior,2023-03-12,80k-100k
+Digital Marketing Specialist,Netflix,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Remote,Consulting,Internship,Senior,2024-08-10,120k-150k
+SEO Analyst,Adobe,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",London,Healthcare,Full-Time,Senior,2022-10-31,150k-200k
+Data Scientist,Google,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Manufacturing,Internship,Mid-level,2023-06-12,60k-80k
+Accountant,Adobe,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Remote,Marketing,Internship,Entry-level,2022-12-16,60k-80k
+Data Scientist,Google,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,Manufacturing,Internship,Entry-level,2024-08-18,120k-150k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,Education,Part-Time,Senior,2023-10-14,60k-80k
+Recruitment Specialist,IBM,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Sydney,Consulting,Contract,Mid-level,2023-11-05,100k-120k
+Front-End Developer,Tesla,"['HTML', 'CSS', 'JavaScript', 'React']",Seattle,Tech,Contract,Senior,2023-07-28,80k-100k
+Front-End Developer,Google,"['HTML', 'CSS', 'JavaScript', 'React']",Berlin,E-commerce,Internship,Entry-level,2023-09-02,120k-150k
+Data Analyst,Amazon,"['Python', 'SQL', 'Tableau', 'Excel']",Remote,Healthcare,Part-Time,Entry-level,2022-12-24,120k-150k
+Customer Success Manager,Tesla,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Seattle,Healthcare,Part-Time,Senior,2023-09-05,100k-120k
+Customer Support Specialist,Microsoft,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Remote,Consulting,Contract,Entry-level,2023-10-31,150k-200k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Toronto,Consulting,Full-Time,Mid-level,2021-11-06,120k-150k
+Software Engineer,Amazon,"['Java', 'Python', 'C++', 'AWS']",Toronto,Marketing,Contract,Senior,2023-10-10,120k-150k
+Social Media Manager,Accenture,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,Manufacturing,Part-Time,Senior,2021-11-12,60k-80k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",Seattle,Finance,Internship,Entry-level,2023-03-30,80k-100k
+Project Manager,Tesla,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",London,E-commerce,Internship,Entry-level,2022-04-01,120k-150k
+Accountant,IBM,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Seattle,Tech,Internship,Mid-level,2024-03-02,100k-120k
+Social Media Manager,Google,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Sydney,Manufacturing,Internship,Mid-level,2023-09-26,100k-120k
+HR Manager,Adobe,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Tech,Full-Time,Senior,2024-03-25,150k-200k
+Technical Product Manager,Google,"['Agile', 'Technical Writing', 'API', 'Software Development']",New York,Consulting,Part-Time,Entry-level,2022-01-12,150k-200k
+Business Intelligence Analyst,Tesla,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",London,Finance,Part-Time,Mid-level,2022-03-28,120k-150k
+Product Manager,Salesforce,"['Agile', 'Scrum', 'Leadership', 'Communication']",New York,Finance,Full-Time,Entry-level,2022-09-05,60k-80k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",London,Consulting,Part-Time,Entry-level,2022-11-24,120k-150k
+Customer Success Manager,Salesforce,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",San Francisco,Consulting,Full-Time,Senior,2023-10-07,100k-120k
+Digital Marketing Specialist,Adobe,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Toronto,Healthcare,Contract,Mid-level,2024-01-05,120k-150k
+Data Scientist,IBM,"['Python', 'R', 'Machine Learning', 'Statistics']",Seattle,Tech,Full-Time,Senior,2024-01-12,80k-100k
+Financial Analyst,Netflix,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Toronto,Healthcare,Internship,Mid-level,2022-03-20,60k-80k
+Front-End Developer,Netflix,"['HTML', 'CSS', 'JavaScript', 'React']",Seattle,Education,Part-Time,Entry-level,2023-05-24,80k-100k
+Product Manager,Netflix,"['Agile', 'Scrum', 'Leadership', 'Communication']",London,Education,Part-Time,Entry-level,2022-06-20,100k-120k
+SEO Analyst,Tesla,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",New York,Finance,Part-Time,Mid-level,2024-01-04,60k-80k
+Project Manager,Salesforce,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Remote,Manufacturing,Part-Time,Senior,2022-10-10,150k-200k
+Data Scientist,Salesforce,"['Python', 'R', 'Machine Learning', 'Statistics']",Seattle,Tech,Contract,Mid-level,2023-01-17,60k-80k
+HR Manager,Google,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",London,Manufacturing,Contract,Mid-level,2022-08-14,150k-200k
+HR Manager,Microsoft,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,E-commerce,Full-Time,Entry-level,2024-01-11,120k-150k
+Front-End Developer,Accenture,"['HTML', 'CSS', 'JavaScript', 'React']",New York,Finance,Part-Time,Entry-level,2024-07-22,80k-100k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Austin,Marketing,Contract,Mid-level,2023-10-15,120k-150k
+HR Manager,IBM,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Manufacturing,Internship,Mid-level,2024-06-08,80k-100k
+SEO Analyst,Salesforce,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Berlin,Education,Full-Time,Mid-level,2022-09-02,60k-80k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,Consulting,Contract,Senior,2023-12-22,60k-80k
+Digital Marketing Specialist,Accenture,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Remote,Manufacturing,Part-Time,Mid-level,2021-10-17,100k-120k
+Social Media Manager,Netflix,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Remote,Marketing,Internship,Senior,2024-05-11,120k-150k
+Technical Product Manager,Google,"['Agile', 'Technical Writing', 'API', 'Software Development']",London,Marketing,Full-Time,Senior,2023-04-27,100k-120k
+SEO Analyst,Adobe,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",San Francisco,Manufacturing,Part-Time,Senior,2024-02-05,100k-120k
+Investment Analyst,Adobe,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,E-commerce,Part-Time,Mid-level,2021-11-24,60k-80k
+HR Manager,Netflix,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,Tech,Contract,Entry-level,2023-03-21,120k-150k
+Accountant,Adobe,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",New York,Education,Full-Time,Senior,2022-05-25,80k-100k
+Customer Support Specialist,IBM,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",London,Tech,Internship,Mid-level,2023-10-16,60k-80k
+Digital Marketing Specialist,Amazon,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",London,E-commerce,Contract,Mid-level,2024-07-01,150k-200k
+Product Manager,Facebook,"['Agile', 'Scrum', 'Leadership', 'Communication']",Sydney,Marketing,Full-Time,Mid-level,2022-11-18,150k-200k
+SEO Analyst,Adobe,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Austin,Tech,Contract,Mid-level,2023-08-17,120k-150k
+Investment Analyst,Amazon,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",London,Marketing,Contract,Entry-level,2022-07-22,100k-120k
+HR Manager,IBM,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,Healthcare,Internship,Mid-level,2022-02-22,150k-200k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",Chicago,Marketing,Internship,Senior,2024-07-16,80k-100k
+Technical Product Manager,IBM,"['Agile', 'Technical Writing', 'API', 'Software Development']",Remote,Healthcare,Full-Time,Senior,2022-12-28,80k-100k
+Business Intelligence Analyst,Adobe,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Seattle,Education,Contract,Entry-level,2023-07-17,80k-100k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Remote,Healthcare,Contract,Senior,2022-12-21,100k-120k
+Back-End Developer,Adobe,"['Node.js', 'Python', 'SQL', 'API Development']",Sydney,Healthcare,Full-Time,Senior,2024-07-14,60k-80k
+Recruitment Specialist,Netflix,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Toronto,Healthcare,Contract,Entry-level,2022-01-26,120k-150k
+Digital Marketing Specialist,Tesla,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Finance,Contract,Senior,2021-11-15,60k-80k
+Data Scientist,Google,"['Python', 'R', 'Machine Learning', 'Statistics']",Austin,Marketing,Contract,Mid-level,2023-01-11,100k-120k
+Customer Success Manager,Microsoft,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Toronto,Finance,Full-Time,Mid-level,2023-09-24,150k-200k
+Financial Analyst,Google,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Sydney,Manufacturing,Internship,Mid-level,2022-11-23,120k-150k
+Investment Analyst,Microsoft,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Seattle,E-commerce,Internship,Mid-level,2023-08-16,60k-80k
+Customer Support Specialist,Facebook,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Toronto,Finance,Contract,Senior,2022-10-18,100k-120k
+Technical Product Manager,Facebook,"['Agile', 'Technical Writing', 'API', 'Software Development']",Sydney,Manufacturing,Full-Time,Entry-level,2023-01-10,100k-120k
+Customer Support Specialist,Amazon,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",London,Finance,Full-Time,Senior,2023-06-11,150k-200k
+Customer Support Specialist,Amazon,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,Finance,Contract,Senior,2023-09-13,80k-100k
+Accountant,Microsoft,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,Consulting,Internship,Mid-level,2022-03-16,150k-200k
+Product Manager,Salesforce,"['Agile', 'Scrum', 'Leadership', 'Communication']",Seattle,Finance,Contract,Senior,2024-05-19,60k-80k
+Social Media Manager,Tesla,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Sydney,Finance,Contract,Entry-level,2024-07-16,120k-150k
+Accountant,Accenture,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Sydney,Finance,Contract,Mid-level,2023-11-22,120k-150k
+Business Intelligence Analyst,Amazon,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Austin,Healthcare,Contract,Mid-level,2023-05-13,80k-100k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,E-commerce,Internship,Entry-level,2024-02-24,60k-80k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Seattle,Tech,Part-Time,Senior,2022-10-12,120k-150k
+Social Media Manager,Tesla,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,E-commerce,Full-Time,Mid-level,2022-04-28,150k-200k
+Data Analyst,Tesla,"['Python', 'SQL', 'Tableau', 'Excel']",Sydney,Manufacturing,Full-Time,Senior,2022-07-26,80k-100k
+Full-Stack Developer,Facebook,"['JavaScript', 'React', 'Node.js', 'SQL']",Seattle,Finance,Contract,Entry-level,2024-07-18,120k-150k
+Digital Marketing Specialist,Amazon,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Consulting,Part-Time,Senior,2022-04-22,120k-150k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",Austin,Tech,Internship,Entry-level,2023-12-21,80k-100k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Remote,Marketing,Contract,Entry-level,2022-06-22,120k-150k
+Business Intelligence Analyst,IBM,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,Tech,Full-Time,Entry-level,2022-11-04,120k-150k
+Digital Marketing Specialist,Microsoft,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Remote,E-commerce,Part-Time,Entry-level,2023-12-26,100k-120k
+Front-End Developer,IBM,"['HTML', 'CSS', 'JavaScript', 'React']",Chicago,Consulting,Full-Time,Entry-level,2024-06-29,150k-200k
+Front-End Developer,Microsoft,"['HTML', 'CSS', 'JavaScript', 'React']",Berlin,Finance,Contract,Senior,2024-02-23,100k-120k
+Digital Marketing Specialist,Microsoft,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Tech,Internship,Entry-level,2022-10-01,80k-100k
+Full-Stack Developer,Accenture,"['JavaScript', 'React', 'Node.js', 'SQL']",Chicago,Finance,Full-Time,Senior,2021-11-01,80k-100k
+Front-End Developer,Tesla,"['HTML', 'CSS', 'JavaScript', 'React']",Remote,Healthcare,Contract,Entry-level,2022-04-25,100k-120k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Chicago,Finance,Part-Time,Senior,2022-05-22,100k-120k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Toronto,Finance,Part-Time,Senior,2023-03-13,60k-80k
+Project Manager,Salesforce,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Toronto,Finance,Contract,Senior,2022-01-22,100k-120k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",London,Tech,Contract,Mid-level,2024-09-30,120k-150k
+Product Manager,Adobe,"['Agile', 'Scrum', 'Leadership', 'Communication']",Berlin,Education,Part-Time,Mid-level,2022-08-12,60k-80k
+Customer Success Manager,IBM,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Remote,E-commerce,Internship,Entry-level,2023-09-18,120k-150k
+Accountant,Microsoft,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",San Francisco,Manufacturing,Contract,Entry-level,2023-02-16,150k-200k
+Front-End Developer,Microsoft,"['HTML', 'CSS', 'JavaScript', 'React']",Seattle,Marketing,Full-Time,Mid-level,2023-07-22,100k-120k
+Project Manager,IBM,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Toronto,Education,Part-Time,Mid-level,2022-07-12,150k-200k
+Talent Acquisition,Adobe,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Seattle,Healthcare,Contract,Mid-level,2022-07-17,120k-150k
+Investment Analyst,IBM,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",New York,Healthcare,Internship,Mid-level,2021-11-11,60k-80k
+Data Scientist,IBM,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Manufacturing,Full-Time,Entry-level,2021-10-23,120k-150k
+Recruitment Specialist,IBM,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Berlin,E-commerce,Full-Time,Senior,2022-08-02,60k-80k
+Financial Analyst,Microsoft,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Sydney,Tech,Full-Time,Mid-level,2022-03-16,60k-80k
+SEO Analyst,Facebook,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Seattle,Education,Contract,Entry-level,2023-11-25,60k-80k
+Recruitment Specialist,Microsoft,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Sydney,Healthcare,Part-Time,Senior,2022-08-25,100k-120k
+Business Intelligence Analyst,Tesla,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",London,E-commerce,Contract,Senior,2022-09-22,120k-150k
+Customer Success Manager,Salesforce,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Austin,Education,Full-Time,Entry-level,2022-06-03,150k-200k
+Software Engineer,Netflix,"['Java', 'Python', 'C++', 'AWS']",Seattle,Manufacturing,Part-Time,Entry-level,2022-05-24,100k-120k
+Customer Success Manager,Facebook,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Berlin,E-commerce,Internship,Entry-level,2023-04-25,150k-200k
+HR Manager,Accenture,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,Tech,Part-Time,Mid-level,2022-01-30,120k-150k
+Investment Analyst,Tesla,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Berlin,Consulting,Contract,Entry-level,2023-09-01,100k-120k
+Software Engineer,Adobe,"['Java', 'Python', 'C++', 'AWS']",Berlin,Consulting,Full-Time,Mid-level,2022-02-14,100k-120k
+SEO Analyst,IBM,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Remote,Marketing,Part-Time,Mid-level,2023-09-23,100k-120k
+Customer Support Specialist,Google,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Toronto,E-commerce,Internship,Mid-level,2022-07-26,120k-150k
+Social Media Manager,Microsoft,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Seattle,Finance,Contract,Mid-level,2023-01-24,150k-200k
+Investment Analyst,Google,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Berlin,Tech,Contract,Senior,2023-01-09,60k-80k
+Back-End Developer,Microsoft,"['Node.js', 'Python', 'SQL', 'API Development']",Austin,Finance,Internship,Mid-level,2023-03-19,100k-120k
+Data Analyst,Amazon,"['Python', 'SQL', 'Tableau', 'Excel']",Chicago,Manufacturing,Full-Time,Mid-level,2024-03-08,150k-200k
+Talent Acquisition,Amazon,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",San Francisco,Consulting,Contract,Entry-level,2022-06-19,120k-150k
+Recruitment Specialist,Amazon,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Sydney,Education,Full-Time,Senior,2024-04-30,100k-120k
+Front-End Developer,Facebook,"['HTML', 'CSS', 'JavaScript', 'React']",Berlin,Tech,Contract,Entry-level,2023-09-11,60k-80k
+Accountant,IBM,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Toronto,Healthcare,Full-Time,Entry-level,2022-11-28,80k-100k
+Talent Acquisition,Netflix,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Seattle,Manufacturing,Contract,Senior,2023-01-10,80k-100k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",Toronto,Healthcare,Internship,Entry-level,2023-02-27,150k-200k
+SEO Analyst,Netflix,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Berlin,Healthcare,Contract,Mid-level,2023-07-24,100k-120k
+HR Manager,Amazon,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Finance,Internship,Mid-level,2023-01-14,120k-150k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Berlin,Consulting,Internship,Senior,2024-07-22,150k-200k
+Talent Acquisition,Tesla,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Remote,Manufacturing,Internship,Mid-level,2023-03-11,100k-120k
+SEO Analyst,Microsoft,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",San Francisco,E-commerce,Internship,Mid-level,2021-12-03,100k-120k
+Accountant,Microsoft,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Austin,Education,Part-Time,Mid-level,2022-06-06,100k-120k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Berlin,Healthcare,Part-Time,Entry-level,2024-04-28,150k-200k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Seattle,Consulting,Contract,Senior,2024-04-03,100k-120k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Remote,E-commerce,Full-Time,Senior,2022-03-06,120k-150k
+Customer Support Specialist,Salesforce,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Berlin,Finance,Full-Time,Mid-level,2023-02-04,120k-150k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",San Francisco,Marketing,Internship,Mid-level,2021-12-24,100k-120k
+Front-End Developer,Accenture,"['HTML', 'CSS', 'JavaScript', 'React']",Seattle,Education,Full-Time,Mid-level,2024-04-26,120k-150k
+Customer Support Specialist,Google,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Chicago,Education,Part-Time,Senior,2023-09-13,120k-150k
+Digital Marketing Specialist,Accenture,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Seattle,Marketing,Contract,Mid-level,2023-07-12,120k-150k
+Back-End Developer,Google,"['Node.js', 'Python', 'SQL', 'API Development']",Austin,Education,Full-Time,Senior,2023-08-09,60k-80k
+Software Engineer,Salesforce,"['Java', 'Python', 'C++', 'AWS']",Remote,Tech,Internship,Senior,2023-01-21,60k-80k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Seattle,Marketing,Internship,Senior,2021-12-10,80k-100k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Chicago,Finance,Internship,Entry-level,2023-05-02,150k-200k
+Business Intelligence Analyst,Microsoft,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Seattle,Tech,Internship,Senior,2022-08-24,80k-100k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Austin,Education,Internship,Mid-level,2024-04-21,150k-200k
+Recruitment Specialist,Tesla,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Chicago,Education,Contract,Senior,2022-05-06,100k-120k
+Software Engineer,Google,"['Java', 'Python', 'C++', 'AWS']",Toronto,Marketing,Contract,Senior,2022-08-29,100k-120k
+Front-End Developer,Amazon,"['HTML', 'CSS', 'JavaScript', 'React']",Chicago,Education,Internship,Entry-level,2023-03-22,100k-120k
+Front-End Developer,Facebook,"['HTML', 'CSS', 'JavaScript', 'React']",Sydney,Consulting,Contract,Entry-level,2023-10-06,100k-120k
+Accountant,Facebook,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",San Francisco,Healthcare,Full-Time,Senior,2023-10-21,60k-80k
+Customer Support Specialist,Netflix,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",San Francisco,E-commerce,Contract,Entry-level,2021-12-17,150k-200k
+Full-Stack Developer,Google,"['JavaScript', 'React', 'Node.js', 'SQL']",Toronto,Finance,Contract,Entry-level,2023-08-22,100k-120k
+Product Manager,Tesla,"['Agile', 'Scrum', 'Leadership', 'Communication']",Toronto,E-commerce,Part-Time,Mid-level,2023-04-06,120k-150k
+SEO Analyst,IBM,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Remote,E-commerce,Contract,Senior,2022-02-08,120k-150k
+Front-End Developer,Google,"['HTML', 'CSS', 'JavaScript', 'React']",Berlin,Tech,Internship,Mid-level,2024-04-11,100k-120k
+Back-End Developer,Tesla,"['Node.js', 'Python', 'SQL', 'API Development']",Sydney,E-commerce,Internship,Mid-level,2022-05-25,120k-150k
+Technical Product Manager,IBM,"['Agile', 'Technical Writing', 'API', 'Software Development']",Sydney,Healthcare,Full-Time,Mid-level,2023-04-19,120k-150k
+Business Intelligence Analyst,IBM,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",London,Healthcare,Contract,Entry-level,2022-09-18,150k-200k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",San Francisco,Tech,Internship,Senior,2023-07-26,120k-150k
+Data Analyst,Netflix,"['Python', 'SQL', 'Tableau', 'Excel']",London,Manufacturing,Full-Time,Mid-level,2021-11-02,150k-200k
+SEO Analyst,Tesla,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",New York,Marketing,Internship,Entry-level,2023-08-06,80k-100k
+Technical Product Manager,Adobe,"['Agile', 'Technical Writing', 'API', 'Software Development']",Remote,E-commerce,Contract,Mid-level,2023-01-01,80k-100k
+Recruitment Specialist,Facebook,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Seattle,Marketing,Contract,Entry-level,2021-12-14,120k-150k
+SEO Analyst,Microsoft,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Toronto,Tech,Full-Time,Entry-level,2021-12-08,60k-80k
+Investment Analyst,Salesforce,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,Finance,Contract,Senior,2022-03-20,100k-120k
+Customer Success Manager,Facebook,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Chicago,Healthcare,Part-Time,Entry-level,2022-10-15,100k-120k
+Investment Analyst,Microsoft,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Chicago,Consulting,Full-Time,Entry-level,2024-02-20,80k-100k
+Financial Analyst,Tesla,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",San Francisco,E-commerce,Contract,Senior,2023-11-13,80k-100k
+Digital Marketing Specialist,Microsoft,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Manufacturing,Internship,Entry-level,2023-02-06,120k-150k
+Technical Product Manager,Tesla,"['Agile', 'Technical Writing', 'API', 'Software Development']",London,Healthcare,Internship,Entry-level,2022-09-20,100k-120k
+Digital Marketing Specialist,Microsoft,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Healthcare,Internship,Senior,2022-08-10,120k-150k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Remote,Marketing,Full-Time,Entry-level,2024-08-23,80k-100k
+Software Engineer,IBM,"['Java', 'Python', 'C++', 'AWS']",New York,E-commerce,Full-Time,Entry-level,2023-04-13,80k-100k
+Product Manager,Accenture,"['Agile', 'Scrum', 'Leadership', 'Communication']",Remote,E-commerce,Internship,Senior,2021-10-20,150k-200k
+Digital Marketing Specialist,Salesforce,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Manufacturing,Full-Time,Entry-level,2024-01-30,120k-150k
+SEO Analyst,Salesforce,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",London,Healthcare,Internship,Entry-level,2022-07-23,100k-120k
+Investment Analyst,Adobe,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Seattle,Manufacturing,Part-Time,Entry-level,2021-11-12,80k-100k
+Back-End Developer,Google,"['Node.js', 'Python', 'SQL', 'API Development']",Toronto,Education,Full-Time,Mid-level,2023-01-10,120k-150k
+Project Manager,Accenture,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",London,Finance,Internship,Entry-level,2022-02-25,150k-200k
+Data Analyst,IBM,"['Python', 'SQL', 'Tableau', 'Excel']",London,Finance,Part-Time,Mid-level,2022-08-29,100k-120k
+Project Manager,Facebook,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Remote,Marketing,Internship,Mid-level,2024-07-26,150k-200k
+Technical Product Manager,Tesla,"['Agile', 'Technical Writing', 'API', 'Software Development']",Berlin,E-commerce,Part-Time,Mid-level,2022-08-02,60k-80k
+Customer Support Specialist,Netflix,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,Consulting,Full-Time,Mid-level,2022-05-11,60k-80k
+Data Scientist,Tesla,"['Python', 'R', 'Machine Learning', 'Statistics']",London,E-commerce,Internship,Entry-level,2022-05-28,80k-100k
+Back-End Developer,Accenture,"['Node.js', 'Python', 'SQL', 'API Development']",Toronto,Consulting,Contract,Mid-level,2024-04-09,100k-120k
+Front-End Developer,Accenture,"['HTML', 'CSS', 'JavaScript', 'React']",Chicago,Manufacturing,Part-Time,Senior,2023-05-30,120k-150k
+SEO Analyst,IBM,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Seattle,Manufacturing,Part-Time,Senior,2022-01-24,80k-100k
+Social Media Manager,Netflix,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",San Francisco,Marketing,Internship,Mid-level,2022-04-06,120k-150k
+Data Scientist,Netflix,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Education,Full-Time,Senior,2024-08-25,150k-200k
+Data Scientist,Amazon,"['Python', 'R', 'Machine Learning', 'Statistics']",Berlin,Manufacturing,Contract,Mid-level,2023-05-13,120k-150k
+Investment Analyst,IBM,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Chicago,Manufacturing,Full-Time,Entry-level,2022-02-04,60k-80k
+Digital Marketing Specialist,Salesforce,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Finance,Contract,Senior,2022-05-25,80k-100k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Chicago,Healthcare,Contract,Senior,2022-05-03,150k-200k
+Financial Analyst,Amazon,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Seattle,Manufacturing,Contract,Mid-level,2022-03-23,150k-200k
+Front-End Developer,Tesla,"['HTML', 'CSS', 'JavaScript', 'React']",Austin,Marketing,Internship,Mid-level,2023-03-06,120k-150k
+Financial Analyst,Salesforce,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",London,Healthcare,Full-Time,Senior,2021-12-13,150k-200k
+Accountant,Adobe,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",London,E-commerce,Contract,Senior,2024-09-01,60k-80k
+Data Scientist,Facebook,"['Python', 'R', 'Machine Learning', 'Statistics']",Sydney,Manufacturing,Part-Time,Entry-level,2022-09-04,120k-150k
+Accountant,Salesforce,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Seattle,Finance,Part-Time,Senior,2023-04-16,60k-80k
+Business Intelligence Analyst,Accenture,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Chicago,E-commerce,Contract,Entry-level,2022-03-26,150k-200k
+Customer Support Specialist,Netflix,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Sydney,Consulting,Contract,Entry-level,2022-05-13,150k-200k
+Customer Support Specialist,Netflix,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,Marketing,Part-Time,Entry-level,2022-08-17,100k-120k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",San Francisco,Manufacturing,Part-Time,Senior,2024-08-21,150k-200k
+Customer Support Specialist,Google,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Berlin,Healthcare,Internship,Mid-level,2021-10-09,120k-150k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",San Francisco,Consulting,Full-Time,Mid-level,2024-09-12,80k-100k
+Full-Stack Developer,Facebook,"['JavaScript', 'React', 'Node.js', 'SQL']",Remote,Consulting,Part-Time,Entry-level,2022-05-31,120k-150k
+Technical Product Manager,Amazon,"['Agile', 'Technical Writing', 'API', 'Software Development']",Sydney,E-commerce,Contract,Entry-level,2023-11-12,120k-150k
+Recruitment Specialist,Accenture,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Remote,E-commerce,Internship,Mid-level,2024-06-23,120k-150k
+Project Manager,Google,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Berlin,Tech,Part-Time,Entry-level,2022-07-16,150k-200k
+Product Manager,Facebook,"['Agile', 'Scrum', 'Leadership', 'Communication']",Austin,E-commerce,Internship,Mid-level,2021-11-26,60k-80k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",New York,Finance,Contract,Mid-level,2022-09-06,60k-80k
+Investment Analyst,Microsoft,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",New York,E-commerce,Contract,Entry-level,2023-09-17,120k-150k
+HR Manager,Adobe,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",San Francisco,E-commerce,Contract,Entry-level,2023-01-08,150k-200k
+Investment Analyst,Google,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",London,Tech,Full-Time,Mid-level,2022-04-11,100k-120k
+Software Engineer,Adobe,"['Java', 'Python', 'C++', 'AWS']",Remote,Finance,Internship,Mid-level,2024-07-22,80k-100k
+Data Scientist,Microsoft,"['Python', 'R', 'Machine Learning', 'Statistics']",London,E-commerce,Internship,Senior,2023-07-11,60k-80k
+Recruitment Specialist,Google,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",London,Tech,Contract,Senior,2023-09-19,100k-120k
+Digital Marketing Specialist,Salesforce,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Chicago,Education,Contract,Senior,2024-06-05,80k-100k
+Social Media Manager,Amazon,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,Marketing,Part-Time,Mid-level,2022-09-04,60k-80k
+Software Engineer,Facebook,"['Java', 'Python', 'C++', 'AWS']",San Francisco,Consulting,Contract,Mid-level,2023-10-05,100k-120k
+Technical Product Manager,Netflix,"['Agile', 'Technical Writing', 'API', 'Software Development']",Seattle,Healthcare,Full-Time,Entry-level,2022-12-20,80k-100k
+Investment Analyst,Accenture,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Toronto,Healthcare,Contract,Mid-level,2022-06-07,120k-150k
+Accountant,Google,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Chicago,E-commerce,Part-Time,Mid-level,2024-05-13,60k-80k
+Data Scientist,Adobe,"['Python', 'R', 'Machine Learning', 'Statistics']",London,Education,Part-Time,Mid-level,2024-03-03,150k-200k
+Business Intelligence Analyst,Adobe,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",Berlin,Finance,Full-Time,Senior,2022-03-13,80k-100k
+Financial Analyst,Adobe,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Remote,Healthcare,Part-Time,Mid-level,2024-09-25,60k-80k
+Customer Success Manager,Facebook,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",San Francisco,Marketing,Part-Time,Entry-level,2024-05-21,100k-120k
+Front-End Developer,Accenture,"['HTML', 'CSS', 'JavaScript', 'React']",Toronto,Education,Full-Time,Mid-level,2022-03-08,100k-120k
+Product Manager,IBM,"['Agile', 'Scrum', 'Leadership', 'Communication']",Sydney,Manufacturing,Full-Time,Entry-level,2022-09-05,60k-80k
+Digital Marketing Specialist,Adobe,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",San Francisco,Manufacturing,Part-Time,Senior,2022-03-15,100k-120k
+Customer Support Specialist,Adobe,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,Tech,Full-Time,Senior,2023-10-26,150k-200k
+Digital Marketing Specialist,Amazon,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Toronto,Healthcare,Contract,Mid-level,2023-07-19,120k-150k
+Data Scientist,Amazon,"['Python', 'R', 'Machine Learning', 'Statistics']",New York,Education,Full-Time,Mid-level,2023-02-06,120k-150k
+HR Manager,Tesla,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Remote,Tech,Part-Time,Mid-level,2024-03-29,120k-150k
+Product Manager,Adobe,"['Agile', 'Scrum', 'Leadership', 'Communication']",Chicago,Education,Internship,Senior,2023-07-22,100k-120k
+Data Scientist,Adobe,"['Python', 'R', 'Machine Learning', 'Statistics']",London,Marketing,Internship,Entry-level,2022-07-18,60k-80k
+Financial Analyst,Microsoft,"['Excel', 'Financial Modeling', 'Forecasting', 'Budgeting']",Chicago,E-commerce,Contract,Mid-level,2022-12-24,150k-200k
+Technical Product Manager,Microsoft,"['Agile', 'Technical Writing', 'API', 'Software Development']",Berlin,Consulting,Part-Time,Mid-level,2024-03-12,80k-100k
+Data Analyst,Salesforce,"['Python', 'SQL', 'Tableau', 'Excel']",Berlin,Education,Part-Time,Entry-level,2022-12-03,120k-150k
+Accountant,Amazon,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Sydney,Finance,Part-Time,Entry-level,2022-01-08,100k-120k
+Software Engineer,Amazon,"['Java', 'Python', 'C++', 'AWS']",Seattle,Marketing,Internship,Entry-level,2022-09-13,150k-200k
+Talent Acquisition,IBM,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Toronto,E-commerce,Internship,Senior,2024-05-09,150k-200k
+Digital Marketing Specialist,Google,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Sydney,Manufacturing,Internship,Senior,2023-11-01,120k-150k
+Customer Support Specialist,Adobe,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Berlin,Healthcare,Contract,Mid-level,2024-09-05,150k-200k
+Technical Product Manager,Facebook,"['Agile', 'Technical Writing', 'API', 'Software Development']",Berlin,Education,Internship,Mid-level,2024-05-02,60k-80k
+Recruitment Specialist,Netflix,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",Berlin,Finance,Contract,Mid-level,2022-12-27,100k-120k
+Customer Success Manager,Tesla,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",London,Education,Full-Time,Senior,2024-02-27,60k-80k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",Seattle,Finance,Full-Time,Entry-level,2024-08-07,120k-150k
+Product Manager,Adobe,"['Agile', 'Scrum', 'Leadership', 'Communication']",Sydney,E-commerce,Internship,Mid-level,2022-09-05,80k-100k
+Data Analyst,Adobe,"['Python', 'SQL', 'Tableau', 'Excel']",Toronto,Finance,Internship,Mid-level,2023-03-07,150k-200k
+Customer Success Manager,Microsoft,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Berlin,E-commerce,Internship,Mid-level,2023-03-15,80k-100k
+Product Manager,Amazon,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Finance,Full-Time,Mid-level,2023-06-13,120k-150k
+Project Manager,Google,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",San Francisco,Consulting,Contract,Entry-level,2022-08-28,120k-150k
+Customer Success Manager,Accenture,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Berlin,Manufacturing,Internship,Entry-level,2024-06-21,150k-200k
+Digital Marketing Specialist,Facebook,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Seattle,Finance,Contract,Senior,2023-02-06,150k-200k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Sydney,Tech,Contract,Senior,2023-04-25,120k-150k
+Customer Success Manager,Salesforce,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",London,Finance,Contract,Senior,2024-08-25,120k-150k
+Full-Stack Developer,Netflix,"['JavaScript', 'React', 'Node.js', 'SQL']",London,Consulting,Internship,Mid-level,2021-11-09,80k-100k
+Project Manager,Google,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Sydney,Consulting,Part-Time,Mid-level,2021-12-07,100k-120k
+Data Scientist,Accenture,"['Python', 'R', 'Machine Learning', 'Statistics']",Austin,Manufacturing,Contract,Senior,2023-06-29,100k-120k
+Recruitment Specialist,Salesforce,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",San Francisco,Healthcare,Contract,Entry-level,2022-12-29,120k-150k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,E-commerce,Internship,Mid-level,2024-02-16,80k-100k
+Data Analyst,Tesla,"['Python', 'SQL', 'Tableau', 'Excel']",San Francisco,Consulting,Part-Time,Mid-level,2024-03-20,150k-200k
+Full-Stack Developer,Adobe,"['JavaScript', 'React', 'Node.js', 'SQL']",San Francisco,Manufacturing,Part-Time,Senior,2022-08-28,100k-120k
+Project Manager,Salesforce,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Toronto,Healthcare,Internship,Entry-level,2023-12-11,150k-200k
+Investment Analyst,Facebook,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Berlin,Finance,Contract,Mid-level,2021-11-10,80k-100k
+Product Manager,Google,"['Agile', 'Scrum', 'Leadership', 'Communication']",New York,Marketing,Full-Time,Senior,2024-03-13,60k-80k
+SEO Analyst,Netflix,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Seattle,Consulting,Internship,Senior,2023-07-19,80k-100k
+Customer Success Manager,Tesla,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Chicago,Education,Contract,Entry-level,2024-06-14,100k-120k
+Full-Stack Developer,Facebook,"['JavaScript', 'React', 'Node.js', 'SQL']",Seattle,Marketing,Internship,Entry-level,2021-12-03,60k-80k
+HR Manager,Salesforce,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Chicago,Manufacturing,Part-Time,Senior,2022-02-01,120k-150k
+Digital Marketing Specialist,Netflix,"['SEO', 'Google Analytics', 'Content Marketing', 'PPC']",Berlin,Marketing,Part-Time,Entry-level,2022-01-09,80k-100k
+Customer Support Specialist,IBM,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Austin,Education,Part-Time,Mid-level,2022-09-28,80k-100k
+Talent Acquisition,Google,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",New York,E-commerce,Internship,Senior,2022-03-10,100k-120k
+Technical Product Manager,Google,"['Agile', 'Technical Writing', 'API', 'Software Development']",Austin,Healthcare,Internship,Senior,2022-05-15,60k-80k
+Back-End Developer,Tesla,"['Node.js', 'Python', 'SQL', 'API Development']",Seattle,Healthcare,Internship,Mid-level,2022-07-11,100k-120k
+SEO Analyst,Amazon,"['SEO', 'Keyword Research', 'Google Analytics', 'Backlink Analysis']",Berlin,Healthcare,Contract,Mid-level,2024-08-21,120k-150k
+Customer Support Specialist,Tesla,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",Sydney,E-commerce,Contract,Mid-level,2024-06-13,80k-100k
+Customer Support Specialist,Adobe,"['Customer Service', 'CRM', 'Communication', 'Troubleshooting']",New York,Finance,Full-Time,Senior,2022-10-04,80k-100k
+Full-Stack Developer,Netflix,"['JavaScript', 'React', 'Node.js', 'SQL']",New York,Tech,Full-Time,Senior,2023-11-15,120k-150k
+Data Analyst,Microsoft,"['Python', 'SQL', 'Tableau', 'Excel']",Seattle,Tech,Internship,Senior,2023-08-14,150k-200k
+Talent Acquisition,Amazon,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Chicago,Education,Full-Time,Mid-level,2022-06-12,150k-200k
+Product Manager,Tesla,"['Agile', 'Scrum', 'Leadership', 'Communication']",San Francisco,Consulting,Full-Time,Mid-level,2024-01-04,80k-100k
+Investment Analyst,Salesforce,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",London,Marketing,Internship,Mid-level,2022-09-19,80k-100k
+HR Manager,Adobe,"['Recruitment', 'Performance Management', 'Employee Relations', 'HRIS']",Austin,Marketing,Part-Time,Entry-level,2024-02-26,60k-80k
+Data Analyst,Microsoft,"['Python', 'SQL', 'Tableau', 'Excel']",New York,Marketing,Internship,Entry-level,2023-05-08,100k-120k
+Accountant,Netflix,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Chicago,Healthcare,Full-Time,Senior,2023-10-09,120k-150k
+Back-End Developer,Salesforce,"['Node.js', 'Python', 'SQL', 'API Development']",Chicago,Healthcare,Contract,Entry-level,2024-03-23,60k-80k
+Recruitment Specialist,Salesforce,"['Talent Sourcing', 'Interviewing', 'ATS', 'Candidate Screening']",London,Manufacturing,Full-Time,Mid-level,2022-07-20,60k-80k
+Front-End Developer,Microsoft,"['HTML', 'CSS', 'JavaScript', 'React']",Chicago,Manufacturing,Contract,Entry-level,2022-03-28,60k-80k
+Social Media Manager,IBM,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Austin,Healthcare,Contract,Senior,2022-04-10,60k-80k
+Software Engineer,Accenture,"['Java', 'Python', 'C++', 'AWS']",New York,Consulting,Internship,Mid-level,2023-02-02,120k-150k
+Customer Success Manager,Microsoft,"['Account Management', 'Client Relations', 'Upselling', 'CRM']",Remote,E-commerce,Part-Time,Entry-level,2023-04-24,100k-120k
+Product Manager,Facebook,"['Agile', 'Scrum', 'Leadership', 'Communication']",Toronto,Consulting,Contract,Senior,2022-05-29,60k-80k
+Project Manager,Netflix,"['Project Management', 'Agile', 'Risk Management', 'MS Project']",Berlin,Education,Internship,Mid-level,2024-04-22,120k-150k
+Investment Analyst,Amazon,"['Financial Modeling', 'Valuation', 'Portfolio Management', 'Excel']",Berlin,Education,Part-Time,Senior,2023-06-07,120k-150k
+Talent Acquisition,Google,"['Recruitment', 'Employer Branding', 'Candidate Experience', 'Negotiation']",Austin,Healthcare,Part-Time,Entry-level,2021-11-19,150k-200k
+Product Manager,IBM,"['Agile', 'Scrum', 'Leadership', 'Communication']",Remote,Consulting,Contract,Entry-level,2023-01-08,60k-80k
+Social Media Manager,Adobe,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",New York,Consulting,Part-Time,Mid-level,2023-03-12,80k-100k
+Product Manager,Accenture,"['Agile', 'Scrum', 'Leadership', 'Communication']",Chicago,Manufacturing,Contract,Entry-level,2022-02-13,60k-80k
+Software Engineer,Amazon,"['Java', 'Python', 'C++', 'AWS']",Seattle,Education,Full-Time,Senior,2024-09-08,120k-150k
+Social Media Manager,Facebook,"['Content Creation', 'Facebook Ads', 'Instagram', 'Social Media Analytics']",Chicago,Education,Full-Time,Senior,2023-01-16,120k-150k
+Data Analyst,Microsoft,"['Python', 'SQL', 'Tableau', 'Excel']",Toronto,Marketing,Contract,Senior,2022-11-18,150k-200k
+Technical Product Manager,Netflix,"['Agile', 'Technical Writing', 'API', 'Software Development']",Berlin,Finance,Internship,Mid-level,2024-06-11,80k-100k
+Technical Product Manager,Amazon,"['Agile', 'Technical Writing', 'API', 'Software Development']",New York,Education,Contract,Senior,2024-06-11,120k-150k
+Business Intelligence Analyst,Google,"['SQL', 'Power BI', 'Data Warehousing', 'Excel']",New York,Marketing,Contract,Mid-level,2022-01-14,120k-150k
+Back-End Developer,Salesforce,"['Node.js', 'Python', 'SQL', 'API Development']",Remote,E-commerce,Contract,Entry-level,2023-12-14,100k-120k
+Accountant,Tesla,"['QuickBooks', 'Tax Preparation', 'Financial Reporting', 'Excel']",Chicago,Manufacturing,Contract,Entry-level,2022-06-02,150k-200k
