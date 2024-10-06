@@ -47,7 +47,8 @@ The Power BI report includes the following visualizations:
 - **Filter by Experience Level**: Allows users to filter job postings by required experience.
 - **Filter by Year**: A dynamic filter to explore how the demand for roles has changed over time.
 
-![In-Demand Skills Report](Job Market Analysis report img.png)
+
+![Job Market Analysis report img](https://github.com/user-attachments/assets/34365e12-fdcb-48e0-bcf8-6b10d365ae78)
 
 
 ## Key Insights
