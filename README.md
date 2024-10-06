@@ -17,7 +17,6 @@ We also provide an interactive **Power BI Dashboard** to explore these insights.
 - **Power BI**: For creating interactive visualizations and dashboards.
 
 
-
 ## Analysis in Jupyter Notebook
 The data cleaning and initial analysis were conducted in **Jupyter Notebook** using **Python** libraries like Pandas, Matplotlib, and Seaborn.
 
@@ -35,6 +34,9 @@ The data cleaning and initial analysis were conducted in **Jupyter Notebook** us
 4. **Salary Analysis**:
    - Calculated average salaries by experience level and visualized the findings.
   
+5. **Industry-Based Analysis**:
+   - Analysis of job postings across different industries to identify which sectors are providing the most opportunities. 
+  
 ## Visualizations in the Power BI Report
 The Power BI report includes the following visualizations:
 
@@ -44,6 +46,8 @@ The Power BI report includes the following visualizations:
 - **Filter by Location**: An interactive filter to drill down job postings by city.
 - **Filter by Experience Level**: Allows users to filter job postings by required experience.
 - **Filter by Year**: A dynamic filter to explore how the demand for roles has changed over time.
+
+![In-Demand Skills Report](Job Market Analysis report img.png)
 
 
 ## Key Insights
